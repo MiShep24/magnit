@@ -127,9 +127,9 @@
 
 > **Количество домохозяйств, которые регулярно используют «Магнит Аптеку» для решения повторяющихся или нескольких задач здоровья.**
 
-### Baseline
+### Benchmark
 
-**Текущий baseline — неизвестен.**
+**Текущий benchmark — неизвестен.**
 
 5,9 млн активных клиентов «Магнит Аптеки» ≠ Active Health Households.
 
@@ -268,8 +268,6 @@ ACTIVE HEALTH HOUSEHOLDS
 
 ### TARGET STATE
 
-Не ставим произвольную цель вроде «5% рынка».
-
 Сначала:
 
 **Baseline AHH → PMF → Retention → Economics**
@@ -377,16 +375,16 @@ Wellness / prevention
 
 # 12 · NUMBERS TO ESTABLISH
 
-| Метрика | Сейчас | Target |
+| Метрика | Сейчас | Target (Baseline/Stretch) |
 |---|---:|---:|
-| **Active Health Households** | **Unknown** | TBD after measurement |
-| **Jobs / household** | Unknown | TBD |
-| **90 / 180d retention** | Unknown | TBD |
-| **Health spend / household** | Unknown | TBD |
-| **Contribution margin / household** | Unknown | TBD |
+| **Active Health Households** | **?** | TBD after measurement |
+| **Jobs / household** | ? | TBD |
+| **90 / 180d retention** | ? | TBD |
+| **Health spend / household** | ? | TBD |
+| **Contribution margin / household** | ? | TBD |
 | **Pharmacy market share** | **≈1,38%** | TBD after PMF & economics |
 
-> **Принцип:** не придумывать target до появления baseline и evidence. Сначала измерить → затем подтвердить PMF → затем зафиксировать амбициозный, но экономически обоснованный target.
+> **Принцип:** Установить target до появления benchmark и discovery. Сначала измерить → затем подтвердить PMF → затем зафиксировать базовый и амбициозный, но экономически обоснованный target.
 
 ---
 
@@ -400,4 +398,4 @@ Wellness / prevention
 
 - Публичные показатели «Магнит» и «Магнит Аптека» — Annual Report 2025.
 - Размер и структура российского аптечного рынка — DSM Group, 2025.
-- **AHH, target state, Jobs, продуктовая концепция, metric tree и roadmap — стратегическая гипотеза для интервью, а не публичные данные компании.**
+- **AHH, target state, Jobs, продуктовая концепция, metric tree и roadmap — стратегическая гипотеза (не публичные данные компании).**
